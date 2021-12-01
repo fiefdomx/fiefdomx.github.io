@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+FiefdomX is a cryptocurrency & algorithmic trading project.  The project primarily focuses on trading bot development for the [polkadex.trade](https://www.polkadex.trade/) and a key part of the project is the ambition to operate as a validator node to secure the network.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
