@@ -21,10 +21,10 @@
 title: FiefdomX
 email: fiefdom.x@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  FiefdomX is a project focusing on trading bot development for the https://www.polkadex.trade 
-  decentralised cryptocurrency exchange and network. A key part of the project is 
-  the ambition to operate as a validator node to contribute to the network's performance 
-  and security.
+  FiefdomX is a project focusing on trading bot development for the Polkadex
+  decentralised cryptocurrency exchange and network. A key project goal is to 
+  operate as a validator node to contribute to the network's performance 
+  and security for optimal algorithmic trading performance.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fiefdom_x
